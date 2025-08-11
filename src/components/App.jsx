@@ -53,6 +53,7 @@ const App = () => {
       
       <footer className='footer' >
          <h2> Feito por João Pedro de O.R da Paixão</h2>
+         <a href='https://www.linkedin.com/in/joao-pedroor'>LinkedIN</a>
          <h2> Creditos a netflix</h2>
          <a href='https://www.themoviedb.org/'>The movie data base (API) </a>
       </footer>
